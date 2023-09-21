@@ -30,6 +30,8 @@ void loop() {
   delay(1000); // Wait for 1 second
 }
 
+/*
+
 Initialization
 begin(): Initializes the sensor and the required serial communication.
 getDistance(): Returns the distance measured by the sensor in centimeters.
@@ -42,3 +44,5 @@ Contributing
 Contributions to this library are welcome. Please follow the Contribution Guidelines for more information.
 
 If you encounter any issues or have suggestions, please create an issue.
+
+*/
