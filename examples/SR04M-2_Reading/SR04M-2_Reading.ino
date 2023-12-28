@@ -1,8 +1,6 @@
 
-/*   Hai nama saya tryo, anggota grup arduino project indonesia, anda dapat menemukannya di facebook
-     terimakasih telah menggunakan library yang saya susun, semoga project kalian berjalan lancar
-     dan hai saya memiliki instagram startup manufakturing dan pemrograman yang dapat anda kunjungi di @desimal.id
-     semoga hari anda menyenangkan, selamat bekerja :)
+/* 
+find me on https://www.instagram.com/tryownd | https://www.facebook.com/tryoo.cgr | iyatryo@gmail.com
 */
 
 #include <SR04M-2.h>
